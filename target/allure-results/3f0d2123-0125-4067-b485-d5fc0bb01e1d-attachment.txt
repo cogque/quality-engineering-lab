@@ -1,0 +1,14 @@
+{
+    "bookingid": 5165,
+    "booking": {
+        "firstname": "",
+        "lastname": "Flores",
+        "totalprice": 1000,
+        "depositpaid": true,
+        "bookingdates": {
+            "checkin": "2026-10-23",
+            "checkout": "2026-10-30"
+        },
+        "additionalneeds": "Breakfast"
+    }
+}

@@ -1,0 +1,13 @@
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\base\BaseTest.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\builders\BookingBuilder.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\config\Endpoints.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\data\BookingData.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\models\Booking.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\models\BookingDates.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\tests\AuthTest.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\tests\CreateBookingNegativeTest.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\tests\CreateBookingTest.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\tests\DeleteBookingTest.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\tests\GetBookingTest.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\tests\UpdateBookingTest.java
+C:\Users\sisrflores\quality-engineering-lab\src\test\java\utils\AllureUtils.java
